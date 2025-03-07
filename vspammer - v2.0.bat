@@ -6,7 +6,7 @@ for /F %%a in ('echo prompt $E ^| cmd') do set "ESC=%%a"
 :mode
 cls
 echo.
-echo   %ESC%[90m[ %ESC%[96mVSPAMMER v2.1%ESC%[90m ]%ESC%[0m
+echo   %ESC%[90m[ %ESC%[96mVSPAMMER v2.0%ESC%[90m ]%ESC%[0m
 echo.
 echo   %ESC%[96m1.%ESC%[0m Hypixel Mode
 echo   %ESC%[96m2.%ESC%[0m Normal Mode
