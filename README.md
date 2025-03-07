@@ -1,4 +1,4 @@
-# VSpammer v2.1
+# VSpammer v2.0
 
 A powerful message spammer with various modes and customization options.
 
