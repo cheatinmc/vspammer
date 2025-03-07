@@ -1,0 +1,10 @@
+VSpammer Changelog
+
+Version 2.0
+-------------------
++ Improved user interface with colored text
++ Enhanced error handling for PowerShell execution
++ Added countdown feature when pressing ESC
++ Better window focus handling
++ Updated documentation and README
++ Cleaner code structure
