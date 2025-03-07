@@ -100,8 +100,13 @@ A powerful message spammer with various modes and customization options.
 ## Important Notes
 
 - Make sure the target window is focused
-- In Discord ping mode, 'xxx' is automatically added before the message
 - Random code is added as #XXXXXX at the end of the message
 - For Discord ping mode, you need the user's ID (right-click user → Copy ID)
 - The program uses PowerShell for enhanced functionality
 - Close the window or press ESC to stop the program completely
+- This program was created with Cursor AI
+
+## Legal Note
+
+VSpammer is a legitimate message automation utility designed for authorized communication purposes only.
+By using this software, you agree to use it responsibly and acknowledge that the developer assumes no liability for misuse. This tool is provided for educational and productivity purposes only.
